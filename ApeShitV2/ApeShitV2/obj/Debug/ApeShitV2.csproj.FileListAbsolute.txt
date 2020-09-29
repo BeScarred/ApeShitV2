@@ -1,0 +1,9 @@
+C:\Users\Shawn\source\repos\ApeShitV2\ApeShitV2\bin\Debug\ApeShitV2.exe.config
+C:\Users\Shawn\source\repos\ApeShitV2\ApeShitV2\bin\Debug\ApeShitV2.exe
+C:\Users\Shawn\source\repos\ApeShitV2\ApeShitV2\bin\Debug\ApeShitV2.pdb
+C:\Users\Shawn\source\repos\ApeShitV2\ApeShitV2\obj\Debug\ApeShitV2.Form1.resources
+C:\Users\Shawn\source\repos\ApeShitV2\ApeShitV2\obj\Debug\ApeShitV2.Properties.Resources.resources
+C:\Users\Shawn\source\repos\ApeShitV2\ApeShitV2\obj\Debug\ApeShitV2.csproj.GenerateResource.cache
+C:\Users\Shawn\source\repos\ApeShitV2\ApeShitV2\obj\Debug\ApeShitV2.csproj.CoreCompileInputs.cache
+C:\Users\Shawn\source\repos\ApeShitV2\ApeShitV2\obj\Debug\ApeShitV2.exe
+C:\Users\Shawn\source\repos\ApeShitV2\ApeShitV2\obj\Debug\ApeShitV2.pdb
